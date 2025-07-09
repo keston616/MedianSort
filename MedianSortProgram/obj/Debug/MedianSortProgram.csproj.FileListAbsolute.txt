@@ -1,0 +1,7 @@
+C:\Users\airat\Desktop\MedianSortProgram\MedianSortProgram\bin\Debug\MedianSortProgram.exe.config
+C:\Users\airat\Desktop\MedianSortProgram\MedianSortProgram\bin\Debug\MedianSortProgram.exe
+C:\Users\airat\Desktop\MedianSortProgram\MedianSortProgram\bin\Debug\MedianSortProgram.pdb
+C:\Users\airat\Desktop\MedianSortProgram\MedianSortProgram\obj\Debug\MedianSortProgram.csproj.AssemblyReference.cache
+C:\Users\airat\Desktop\MedianSortProgram\MedianSortProgram\obj\Debug\MedianSortProgram.csproj.CoreCompileInputs.cache
+C:\Users\airat\Desktop\MedianSortProgram\MedianSortProgram\obj\Debug\MedianSortProgram.exe
+C:\Users\airat\Desktop\MedianSortProgram\MedianSortProgram\obj\Debug\MedianSortProgram.pdb
